@@ -5,7 +5,7 @@ Confusion Matrix in Python using Matplotlib
 pip install sweetconfusionmatrix
 ```
 
-## Demo
+## Demo
 
 ```python
 import sweetconfusionmatrix
