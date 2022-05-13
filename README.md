@@ -6,6 +6,7 @@ pip install sweetconfusionmatrix
 ```
 
 ## Demo
+
 ```python
 import sweetconfusionmatrix
 sweetconfusionmatrix.cm([1, 1, 1, 2, 1],[1, 1, 1, 2, 2], [1,2], title="Demo matrix", filename="demo.png")
